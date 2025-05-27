@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a Software Developer with solid knowledge in PHP, JavaScript and CSS, specialized in frameworks like Vue.js, Yii and Laravel. My passion for Geographic Information Systems (GIS) has led me to master tools like ArcGIS SDK JS, Google Maps JS and PostgreSQL/PostGIS. Self-taught by nature, I enjoy learning new technologies and creating solutions that generate real value. I am motivated to participate in innovative projects, where I can apply my skills and continue to grow as a professional.
+Hi! I'm a passionate software developer with solid knowledge in PHP, JavaScript and CSS. I have experience in frameworks such as Vue.js, Yii and Laravel, which allows me to create dynamic and efficient applications. My particular interest is in geographic information systems (GIS), where I handle tools like ArcGIS SDK JS and Google Maps JS, as well as PostgreSQL/PostGIS databases.
+
+As a self-taught person, I enjoy exploring new technologies and concepts that challenge my skills, and I am always looking for projects that generate value and motivate me to keep learning. I am open to collaborate in interesting initiatives that drive innovation. If you are looking for a committed and enthusiastic professional, don't hesitate to contact me!
 
 
 # 💻 Tech Stack:
